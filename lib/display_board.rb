@@ -2,5 +2,5 @@
 # out the current state.
 def display_board(board)
   puts board = ["X", "X", "O", "O", "X", "O", "O", "X", "O"]
-  display_board(board)
 end
+ display_board(board)
